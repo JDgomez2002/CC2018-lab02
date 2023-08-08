@@ -1,0 +1,3 @@
+/mnt/d/JDgomez/Git/graphics/CC2018-lab02/build/CMakeFiles/EXEC.dir
+/mnt/d/JDgomez/Git/graphics/CC2018-lab02/build/CMakeFiles/edit_cache.dir
+/mnt/d/JDgomez/Git/graphics/CC2018-lab02/build/CMakeFiles/rebuild_cache.dir
