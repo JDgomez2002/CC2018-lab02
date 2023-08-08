@@ -13,10 +13,9 @@ constexpr size_t BOARD_HEIGHT = 100;
 
 bool board[BOARD_WIDTH][BOARD_HEIGHT];
 
-Color cellColor(25, 43, 194, 255);   // Color rojo vino
-Color backgroundColor(0, 0, 0, 255); // Color de fondo combinado
+Color cellColor(25, 43, 194, 255); //Color of the cells
+Color backgroundColor(0, 0, 0, 255);
 
-// Function to set a specific pixel in the framebuffer to the specified color
 void point(int x, int y, const Color &color)
 {
   if (x >= 0 && x < FRAMEBUFFER_WIDTH && y >= 0 && y < FRAMEBUFFER_HEIGHT)
